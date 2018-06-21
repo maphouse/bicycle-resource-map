@@ -1,5 +1,4 @@
-
-online bicycle service map using
+Online bicycle service map using
 --- flask (python web environment)
 --- overpass api python wrapper (to programmatically access OSM data)
 --- webmapping plugin TBD (Openlayers, Leaflet, Mapbox?)

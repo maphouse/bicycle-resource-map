@@ -1,4 +1,5 @@
 <html>
+	
 	<head>
 		<title>main map</title>
 		<link rel="stylesheet" href="ol_v4.6.5-dist/ol.css" type="text/css">
@@ -25,42 +26,60 @@
 		</style>
 		<script src="ol_v4.6.5-dist/ol.js"></script>
 	</head>
+	
 	<body>
 		<p>hello! main page!</p>
 		<a class="skiplink" href="#map">Go to map</a>
 		<div id="map" class="map" tabindex="0"></div>
 		<button id="zoom-out">Zoom out</button>
 		<button id="zoom-in">Zoom in</button>
+		
 		<script>
+			//map object
 			var map = new ol.Map({
-			layers: [
-			  new ol.layer.Tile({
-				source: new ol.source.OSM()
-			  })
-			],
-			target: 'map',
-			controls: ol.control.defaults({
-			  attributionOptions: {
-				collapsible: false
-			  }
-			}),
-			view: new ol.View({
-			  center: [0, 0],
-			  zoom: 2
-			})
+				layers: [
+				  new ol.layer.Tile({
+					source: new ol.source.OSM()
+				  })
+				],
+				target: 'map',
+				controls: ol.control.defaults({
+				  attributionOptions: {
+					collapsible: false
+				  }
+				}),
+				view: new ol.View({
+				  center: [0, 0],
+				  zoom: 2
+				})
 			});
 
+
+			//geojson
+			var vectorSource = new ol.source.Vector({
+				features: (new ol.format.GeoJSON()).readFeatures(geojsonObject)
+			});
+
+			var vectorLayer = new ol.layer.Vector({
+				source: vectorSource,
+				style: styleFunction
+			});
+			
+
+			//zoom controls
 			document.getElementById('zoom-out').onclick = function() {
-			var view = map.getView();
-			var zoom = view.getZoom();
-			view.setZoom(zoom - 1);
+				var view = map.getView();
+				var zoom = view.getZoom();
+				view.setZoom(zoom - 1);
 			};
 
 			document.getElementById('zoom-in').onclick = function() {
-			var view = map.getView();
-			var zoom = view.getZoom();
-			view.setZoom(zoom + 1);
+				var view = map.getView();
+				var zoom = view.getZoom();
+				view.setZoom(zoom + 1);
 			};
+		
 		</script>
 	</body>
+	
 </html>

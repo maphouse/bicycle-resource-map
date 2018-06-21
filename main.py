@@ -24,8 +24,7 @@ def about():
 	return json.dumps(response, indent=4)
 @app.route('/contribute')
 def contribute():
-	return 'this is the contribute page'
-	
+	return 'this is the contribute page yea'
 	
 
 with open('data.js', 'w') as jsonFile:
