@@ -27,5 +27,5 @@ def contribute():
 	return 'this is the contribute page yea'
 	
 
-with open('data.js', 'w') as jsonFile:
+with open('static/data.js', 'w') as jsonFile:
 	json.dump(response, jsonFile, indent=4)

@@ -3,14 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": 267224850,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6202108,
                     45.5449797
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 267224850,
             "properties": {
                 "shop": "bicycle",
                 "created_by": "JOSM"
@@ -18,876 +18,876 @@
         },
         {
             "type": "Feature",
-            "id": 391531423,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5902858,
                     45.520625
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 391531423,
             "properties": {
                 "shop": "bicycle"
             }
         },
         {
             "type": "Feature",
-            "id": 864716929,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5531325,
                     45.5058442
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 864716929,
             "properties": {
-                "addr:street": "Rue de la Commune Est",
                 "service:bicycle:retail": "yes",
+                "service:bicycle:repair": "yes",
+                "service:bicycle:rental": "yes",
+                "rental": "yes",
+                "website": "caroulemontreal.com",
+                "service:bicycle:second_hand": "yes",
+                "shop": "bicycle",
+                "addr:housenumber": "27",
+                "service:bicycle:pump": "yes",
+                "addr:street": "Rue de la Commune Est",
+                "name": "Ca Roule Montreal on Wheels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.607892,
+                    45.5275483
+                ]
+            },
+            "id": 878786036,
+            "properties": {
+                "addr:city": "Montr\u00e9al",
+                "opening_hours": "Mo-Fr 19:00-22:00",
+                "website": "https://www.facebook.com/groups/mileendbikegarage/",
+                "shop": "bicycle",
+                "addr:housenumber": "135",
+                "description": "Atelier de r\u00e9paration de bicyclettes communautaire dans le Mile End, Montr\u00e9al.\nVolunteer-run community bicycle repair shop in Mile End, Montreal.",
+                "addr:street": "Avenue Van Horne",
+                "name": "Mile End Bike Garage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5679641,
+                    45.5207667
+                ]
+            },
+            "id": 929692787,
+            "properties": {
+                "shop": "bicycle",
+                "website": "http://www.legrandcycle.com",
+                "name": "Le Grand Cycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5562215,
+                    45.5523224
+                ]
+            },
+            "id": 1246071618,
+            "properties": {
+                "addr:city": "Montr\u00e9al",
+                "shop": "bicycle",
+                "website": "http://www.velomontreal.com",
+                "addr:postcode": "H1X 1Z1",
+                "addr:housenumber": "3880",
+                "phone": "+1-514-259-7272",
+                "addr:street": "Rue Rachel Est",
+                "name": "V\u00e9lo Montr\u00e9al"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6166623,
+                    45.536094
+                ]
+            },
+            "id": 1256682050,
+            "properties": {
+                "addr:postcode": "H2R 1S8",
+                "shop": "bicycle",
+                "website": "http://www.dumoulinbicyclettes.com/",
+                "addr:housenumber": "173",
+                "addr:street": "Rue Jean-Talon est",
+                "name": "Dumoulin Bicyclettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5746684,
+                    45.477938
+                ]
+            },
+            "id": 1391408024,
+            "properties": {
+                "service:bicycle:repair": "yes",
+                "name": "MyBicyclette",
+                "service:bicycle:rental": "yes",
+                "shop": "bicycle",
+                "service:bicycle:pump": "yes",
+                "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 09:00-19:00",
+                "service:bicycle:retail": "yes",
+                "phone": "+1-877-815-0150"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5800757,
+                    45.5199743
+                ]
+            },
+            "id": 1425555847,
+            "properties": {
+                "name": "La Bicycletterie J.R.",
                 "service:bicycle:rental": "yes",
                 "service:bicycle:second_hand": "yes",
                 "shop": "bicycle",
+                "service:bicycle:retail": "yes",
                 "service:bicycle:pump": "yes",
-                "name": "Ca Roule Montreal on Wheels",
-                "addr:housenumber": "27",
-                "website": "caroulemontreal.com",
-                "rental": "yes",
+                "wheelchair": "yes",
                 "service:bicycle:repair": "yes"
             }
         },
         {
             "type": "Feature",
-            "id": 878786036,
             "geometry": {
-                "coordinates": [
-                    -73.607892,
-                    45.5275483
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "addr:street": "Avenue Van Horne",
-                "addr:city": "Montr\u00e9al",
-                "description": "Atelier de r\u00e9paration de bicyclettes communautaire dans le Mile End, Montr\u00e9al.\nVolunteer-run community bicycle repair shop in Mile End, Montreal.",
-                "shop": "bicycle",
-                "website": "https://www.facebook.com/groups/mileendbikegarage/",
-                "name": "Mile End Bike Garage",
-                "addr:housenumber": "135",
-                "opening_hours": "Mo-Fr 19:00-22:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 929692787,
-            "geometry": {
-                "coordinates": [
-                    -73.5679641,
-                    45.5207667
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Le Grand Cycle",
-                "website": "http://www.legrandcycle.com",
-                "shop": "bicycle"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1246071618,
-            "geometry": {
-                "coordinates": [
-                    -73.5562215,
-                    45.5523224
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "phone": "+1-514-259-7272",
-                "addr:street": "Rue Rachel Est",
-                "addr:city": "Montr\u00e9al",
-                "shop": "bicycle",
-                "website": "http://www.velomontreal.com",
-                "name": "V\u00e9lo Montr\u00e9al",
-                "addr:housenumber": "3880",
-                "addr:postcode": "H1X 1Z1"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1256682050,
-            "geometry": {
-                "coordinates": [
-                    -73.6166623,
-                    45.536094
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "addr:street": "Rue Jean-Talon est",
-                "shop": "bicycle",
-                "website": "http://www.dumoulinbicyclettes.com/",
-                "name": "Dumoulin Bicyclettes",
-                "addr:housenumber": "173",
-                "addr:postcode": "H2R 1S8"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1391408024,
-            "geometry": {
-                "coordinates": [
-                    -73.5746684,
-                    45.477938
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "phone": "+1-877-815-0150",
-                "service:bicycle:retail": "yes",
-                "service:bicycle:rental": "yes",
-                "shop": "bicycle",
-                "service:bicycle:pump": "yes",
-                "name": "MyBicyclette",
-                "service:bicycle:repair": "yes",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 09:00-19:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1425555847,
-            "geometry": {
-                "coordinates": [
-                    -73.5800757,
-                    45.5199743
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "service:bicycle:retail": "yes",
-                "service:bicycle:rental": "yes",
-                "shop": "bicycle",
-                "service:bicycle:pump": "yes",
-                "name": "La Bicycletterie J.R.",
-                "service:bicycle:repair": "yes",
-                "wheelchair": "yes",
-                "service:bicycle:second_hand": "yes"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 1599121926,
-            "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5779767,
                     45.5034862
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 1599121926,
             "properties": {
                 "shop": "bicycle",
-                "name": "The Flat Bike Collective",
                 "website": "http://theflat.wordpress.com/",
-                "wheelchair": "yes",
+                "service:bicycle:diy": "yes",
                 "opening_hours": "Mo-Th 17:00-20:00; We off",
-                "service:bicycle:diy": "yes"
+                "wheelchair": "yes",
+                "name": "The Flat Bike Collective"
             }
         },
         {
             "type": "Feature",
-            "id": 1599170613,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5793813,
                     45.4976361
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 1599170613,
             "properties": {
-                "name:fr": "La Voie Libre",
+                "name": "Right to Move",
                 "shop": "bicycle",
                 "website": "http://www.rtm-lvl.org/",
-                "name": "Right to Move",
-                "service:bicycle:repair": "yes",
-                "wheelchair": "no",
+                "service:bicycle:diy": "yes",
+                "name:fr": "La Voie Libre",
                 "opening_hours": "Mo-Fr 18:00-21:00; Sa,Su 14:00-17:00",
-                "service:bicycle:diy": "yes"
+                "wheelchair": "no",
+                "service:bicycle:repair": "yes"
             }
         },
         {
             "type": "Feature",
-            "id": 1713305945,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6031837,
                     45.522422
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 1713305945,
             "properties": {
-                "name": "ABC Cycles",
-                "service:bicycle:repair": "yes",
+                "shop": "bicycle",
                 "service:bicycle:retail": "yes",
+                "service:bicycle:repair": "yes",
                 "wheelchair": "no",
-                "shop": "bicycle"
+                "name": "ABC Cycles"
             }
         },
         {
             "type": "Feature",
-            "id": 1764213416,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5949402,
                     45.4550383
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 1764213416,
             "properties": {
-                "addr:street": "Boulevard Monk",
+                "addr:postcode": "H4E 3H8",
                 "shop": "bicycle",
                 "website": "www.bicycleseddy.com",
-                "name": "Bicyles Eddy",
                 "addr:housenumber": "6341",
-                "addr:postcode": "H4E 3H8"
+                "addr:street": "Boulevard Monk",
+                "name": "Bicyles Eddy"
             }
         },
         {
             "type": "Feature",
-            "id": 2291466454,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6234353,
                     45.5402686
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 2291466454,
             "properties": {
-                "addr:street": "Rue Villeray",
                 "addr:city": "Montr\u00e9al",
-                "addr:province": "QC",
                 "shop": "bicycle",
-                "name": "Cyclopathe",
+                "addr:province": "QC",
+                "addr:postcode": "H2R 1H1",
                 "addr:housenumber": "357",
-                "addr:postcode": "H2R 1H1"
+                "addr:street": "Rue Villeray",
+                "name": "Cyclopathe"
             }
         },
         {
             "type": "Feature",
-            "id": 2316598605,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6132508,
                     45.5032626
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 2316598605,
             "properties": {
-                "name": "Biciklo",
-                "website": "www.biciklo.ca",
+                "service:bicycle:diy": "yes",
                 "service:bicycle:retail": "no",
                 "shop": "bicycle",
-                "service:bicycle:diy": "yes"
+                "website": "www.biciklo.ca",
+                "name": "Biciklo"
             }
         },
         {
             "type": "Feature",
-            "id": 2408157028,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6124246,
                     45.523016
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 2408157028,
             "properties": {
-                "addr:street": "Van Horne",
+                "addr:postcode": "H2V 1K4",
                 "shop": "bicycle",
                 "website": "cyclesregis.com",
-                "name": "Cycles R\u00e9gis",
                 "addr:housenumber": "1150",
-                "addr:postcode": "H2V 1K4"
+                "addr:street": "Van Horne",
+                "name": "Cycles R\u00e9gis"
             }
         },
         {
             "type": "Feature",
-            "id": 2420849998,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5491775,
                     45.5504426
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 2420849998,
             "properties": {
-                "phone": "+1-514-259-7606",
-                "addr:street": "Rue Hochelaga",
                 "addr:city": "Montr\u00e9al",
                 "shop": "bicycle",
                 "website": "http://www.velomane.com",
-                "name": "Le V\u00e9lomane",
+                "addr:postcode": "H1W 1J7",
                 "addr:housenumber": "3898",
-                "addr:postcode": "H1W 1J7"
+                "phone": "+1-514-259-7606",
+                "addr:street": "Rue Hochelaga",
+                "name": "Le V\u00e9lomane"
             }
         },
         {
             "type": "Feature",
-            "id": 2428619143,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5717616,
                     45.5189886
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 2428619143,
             "properties": {
-                "start_date": "2017/07/22",
                 "addr:city": "Montr\u00e9al",
-                "description": "Espresso bar, bike workshop and bike repairs",
-                "addr:province": "QC",
-                "service:bicycle:repair": "yes",
-                "amenity": "cafe",
-                "addr:postcode": "H2W 2M4",
-                "source": "NRCan-CanVec-10.0",
-                "addr:street": "Rue Saint-Denis",
                 "shop": "bicycle",
-                "website": "leclub.cc",
-                "name": "Le Club Espresso Bar",
+                "addr:province": "QC",
                 "addr:housenumber": "3801",
-                "service:bicycle:tools": "yes"
+                "amenity": "cafe",
+                "source": "NRCan-CanVec-10.0",
+                "description": "Espresso bar, bike workshop and bike repairs",
+                "start_date": "2017/07/22",
+                "addr:postcode": "H2W 2M4",
+                "service:bicycle:tools": "yes",
+                "website": "leclub.cc",
+                "service:bicycle:repair": "yes",
+                "addr:street": "Rue Saint-Denis",
+                "name": "Le Club Espresso Bar"
             }
         },
         {
             "type": "Feature",
-            "id": 2501999318,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5326208,
                     45.5532627
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 2501999318,
             "properties": {
-                "phone": "+1-514-596-0655",
-                "addr:street": "Rue Sainte-Catherine Est",
                 "addr:city": "Montr\u00e9al",
                 "shop": "bicycle",
+                "source": "survey",
                 "website": "http://www.veloespresso.com/",
-                "name": "V\u00e9lo Espresso",
-                "addr:housenumber": "4551",
                 "addr:postcode": "H1V 1Y8",
-                "source": "survey"
+                "addr:housenumber": "4551",
+                "phone": "+1-514-596-0655",
+                "addr:street": "Rue Sainte-Catherine Est",
+                "name": "V\u00e9lo Espresso"
             }
         },
         {
             "type": "Feature",
-            "id": 2928609938,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5773252,
                     45.5299542
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 2928609938,
             "properties": {
-                "addr:street": "Avenue du Mont-Royal Est",
                 "addr:city": "Montr\u00e9al",
                 "shop": "bicycle",
-                "opening_hours": "Mo-We 10:00-18:00, Th,Fr 10:00-21:00, Su 10:00-17:00",
-                "name": "Pignon sur roues",
+                "addr:postcode": "H2J 1Y5",
                 "addr:housenumber": "1308",
-                "addr:postcode": "H2J 1Y5"
+                "opening_hours": "Mo-We 10:00-18:00, Th,Fr 10:00-21:00, Su 10:00-17:00",
+                "addr:street": "Avenue du Mont-Royal Est",
+                "name": "Pignon sur roues"
             }
         },
         {
             "type": "Feature",
-            "id": 3095032094,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5760068,
                     45.5460045
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 3095032094,
             "properties": {
-                "addr:street": "Rue Masson",
+                "addr:postcode": "H1Y 1W2",
                 "shop": "bicycle",
-                "opening_hours": "Mo-We 09:30-19:00, Th,Fr 09:30-21:00, Sa 09:00-17:00, Su 10:00-17:00",
                 "website": "http://www.bicyclesquilicot.com",
-                "name": "Bicycles Quilicot",
                 "addr:housenumber": "2650",
-                "addr:postcode": "H1Y 1W2"
+                "opening_hours": "Mo-We 09:30-19:00, Th,Fr 09:30-21:00, Sa 09:00-17:00, Su 10:00-17:00",
+                "addr:street": "Rue Masson",
+                "name": "Bicycles Quilicot"
             }
         },
         {
             "type": "Feature",
-            "id": 3472438784,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5948653,
                     45.4754602
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 3472438784,
             "properties": {
-                "addr:street": "Rue de Courcelles",
                 "addr:city": "Montr\u00e9al",
-                "addr:province": "Qu\u00e9bec",
                 "shop": "bicycle",
-                "name": "Cycle N\u00e9ron",
+                "addr:province": "Qu\u00e9bec",
+                "addr:postcode": "H4C 3C8",
                 "addr:housenumber": "930",
-                "addr:postcode": "H4C 3C8"
+                "addr:street": "Rue de Courcelles",
+                "name": "Cycle N\u00e9ron"
             }
         },
         {
             "type": "Feature",
-            "id": 3777003480,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5776389,
                     45.5289746
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 3777003480,
             "properties": {
-                "level": "0",
-                "addr:street": "Rue de Br\u00e9beuf",
                 "addr:city": "Montr\u00e9al",
-                "shop": "bicycle",
-                "opening_hours": "Tu,We 09:00-18:00, Th,Fr 09:00-20:00, Sa 10:00-16:00",
+                "phone": "+1-514-522-5499",
                 "website": "http://velodidacte.com",
-                "name": "V\u00e9lodidacte",
-                "addr:housenumber": "4468",
-                "addr:postcode": "H2J 3K9",
+                "level": "0",
                 "source": "survey, biz card",
-                "phone": "+1-514-522-5499"
+                "addr:postcode": "H2J 3K9",
+                "shop": "bicycle",
+                "addr:housenumber": "4468",
+                "opening_hours": "Tu,We 09:00-18:00, Th,Fr 09:00-20:00, Sa 10:00-16:00",
+                "addr:street": "Rue de Br\u00e9beuf",
+                "name": "V\u00e9lodidacte"
             }
         },
         {
             "type": "Feature",
-            "id": 4151821311,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5696351,
                     45.5099291
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4151821311,
             "properties": {
-                "name": "BQAM",
+                "shop": "bicycle",
                 "phone": "+1-514-987-3000x8574",
                 "opening_hours": "lundi - jeudi 16h \u00e0 20h",
-                "shop": "bicycle"
+                "name": "BQAM"
             }
         },
         {
             "type": "Feature",
-            "id": 4190357576,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.575293,
                     45.5166397
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4190357576,
             "properties": {
                 "shop": "bicycle",
                 "website": "http://santropolroulant.org/en/what-is-the-roulant/collectives/santrovelo/",
+                "service:bicycle:diy": "yes",
                 "name": "Santrovelo",
-                "service:bicycle:repair": "yes",
-                "wheelchair": "no",
                 "opening_hours": "Mo-Fr 17:30-19:30",
-                "service:bicycle:diy": "yes"
+                "wheelchair": "no",
+                "service:bicycle:repair": "yes"
             }
         },
         {
             "type": "Feature",
-            "id": 4268270675,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6180227,
                     45.5036135
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4268270675,
             "properties": {
-                "note": "Montreal University",
+                "brand": "Dero",
+                "opening_hours": "24/7",
                 "shop": "bicycle",
                 "service:bicycle:pump": "yes",
-                "name": "Station de r\u00e9paration de v\u00e9los",
-                "opening_hours": "24/7",
                 "amenity": "bicycle_repair_station",
-                "brand": "Dero"
+                "note": "Montreal University",
+                "name": "Station de r\u00e9paration de v\u00e9los"
             }
         },
         {
             "type": "Feature",
-            "id": 4304658073,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6067878,
                     45.5296656
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4304658073,
             "properties": {
-                "phone": "+1-514-805-3479",
-                "addr:street": "Boulevard Saint-Laurent",
-                "shop": "bicycle",
                 "addr:city": "Montr\u00e9al",
-                "addr:province": "QC",
-                "opening_hours": "10:00-20:00",
                 "email": "velos.sa.coche@gmail.com",
-                "name": "Velos s'a Coche",
-                "addr:housenumber": "6311",
+                "phone": "+1-514-805-3479",
+                "addr:province": "QC",
                 "addr:postcode": "H2S 3C3",
-                "operator": "Gene Pelletier"
+                "operator": "Gene Pelletier",
+                "shop": "bicycle",
+                "addr:housenumber": "6311",
+                "opening_hours": "10:00-20:00",
+                "addr:street": "Boulevard Saint-Laurent",
+                "name": "Velos s'a Coche"
             }
         },
         {
             "type": "Feature",
-            "id": 4306358816,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5956947,
                     45.5440988
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4306358816,
             "properties": {
-                "name": "Cycle Action Sport",
-                "shop": "bicycle"
+                "shop": "bicycle",
+                "name": "Cycle Action Sport"
             }
         },
         {
             "type": "Feature",
-            "id": 4306410289,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5909411,
                     45.5495642
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4306410289,
             "properties": {
-                "addr:street": "Rue Beaubien Est",
                 "addr:city": "Montr\u00e9al",
                 "shop": "bicycle",
-                "website": "www.http://velointemporel.ca/",
-                "name": "V\u00e9lo Intemporel     ",
+                "addr:postcode": "H1Y 1G2",
                 "addr:housenumber": "2548",
-                "addr:postcode": "H1Y 1G2"
+                "website": "www.http://velointemporel.ca/",
+                "addr:street": "Rue Beaubien Est",
+                "name": "V\u00e9lo Intemporel     "
             }
         },
         {
             "type": "Feature",
-            "id": 4307885606,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5655093,
                     45.4890955
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4307885606,
             "properties": {
-                "addr:street": "Rue William",
                 "addr:city": "Montr\u00e9al",
-                "addr:province": "QC",
                 "shop": "bicycle",
-                "name": "M\u00e9canocycle",
+                "addr:province": "QC",
+                "addr:postcode": "H3J 1R1",
                 "addr:housenumber": "1619",
-                "addr:postcode": "H3J 1R1"
+                "addr:street": "Rue William",
+                "name": "M\u00e9canocycle"
             }
         },
         {
             "type": "Feature",
-            "id": 4309975427,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6079523,
                     45.5306973
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4309975427,
             "properties": {
-                "name": "CMC",
                 "addr:housenumber": "40",
                 "shop": "bicycle",
-                "addr:street": "Rue Beaubien Est"
+                "addr:street": "Rue Beaubien Est",
+                "name": "CMC"
             }
         },
         {
             "type": "Feature",
-            "id": 4359386290,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5930894,
                     45.5182412
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4359386290,
             "properties": {
-                "name": "Mon v\u00e9lo spinning",
                 "addr:housenumber": "4816b",
+                "shop": "bicycle",
                 "service:bicycle:retail": "yes",
-                "shop": "bicycle"
+                "name": "Mon v\u00e9lo spinning"
             }
         },
         {
             "type": "Feature",
-            "id": 4385367992,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6394233,
                     45.4949634
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4385367992,
             "properties": {
-                "name": "Cycles VB Inc",
+                "name:en": "Cycles VB Inc",
                 "shop": "bicycle",
-                "name:en": "Cycles VB Inc"
+                "name": "Cycles VB Inc"
             }
         },
         {
             "type": "Feature",
-            "id": 4385408189,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6198471,
                     45.4683392
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4385408189,
             "properties": {
-                "name": "Bicycles McW",
+                "name:en": "Bicycles McW",
                 "shop": "bicycle",
-                "name:en": "Bicycles McW"
+                "name": "Bicycles McW"
             }
         },
         {
             "type": "Feature",
-            "id": 4402850471,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6184223,
                     45.509025
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4402850471,
             "properties": {
-                "note": "Chemin de la Cote-Sainte-Catherine",
+                "brand": "Dero",
+                "opening_hours": "24/7",
                 "shop": "bicycle",
                 "service:bicycle:pump": "yes",
-                "name": "Station de r\u00e9paration de v\u00e9los",
-                "opening_hours": "24/7",
                 "amenity": "bicycle_repair_station",
-                "brand": "Dero"
+                "note": "Chemin de la Cote-Sainte-Catherine",
+                "name": "Station de r\u00e9paration de v\u00e9los"
             }
         },
         {
             "type": "Feature",
-            "id": 4403377804,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6516935,
                     45.5323474
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4403377804,
             "properties": {
-                "name": "Atelier MEC",
+                "operator": "MEC",
                 "shop": "bicycle",
-                "operator": "MEC"
+                "name": "Atelier MEC"
             }
         },
         {
             "type": "Feature",
-            "id": 4722828316,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5597065,
                     45.6643858
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4722828316,
             "properties": {
                 "addr:city": "Montr\u00e9al",
+                "service:bicycle:retail": "yes",
+                "service:bicycle:cleaning": "yes",
                 "addr:province": "QC",
-                "service:bicycle:chaintool": "yes",
-                "service:bicycle:repair": "yes",
+                "service:bicycle:second_hand": "yes",
+                "addr:housenumber": "10230",
+                "service:bicycle:pump": "yes",
                 "service:bicycle:parts": "yes",
                 "addr:postcode": "H1C 1B1",
-                "addr:street": "Boulevard Gouin Est",
-                "service:bicycle:retail": "yes",
-                "service:bicycle:rental": "yes",
-                "service:bicycle:cleaning": "yes",
+                "service:bicycle:repair": "yes",
                 "shop": "bicycle",
-                "service:bicycle:pump": "yes",
-                "name": "Velocyclop",
-                "addr:housenumber": "10230",
+                "service:bicycle:chaintool": "yes",
                 "service:bicycle:tools": "yes",
-                "service:bicycle:second_hand": "yes"
+                "service:bicycle:rental": "yes",
+                "addr:street": "Boulevard Gouin Est",
+                "name": "Velocyclop"
             }
         },
         {
             "type": "Feature",
-            "id": 4860731070,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5730087,
                     45.5270855
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4860731070,
             "properties": {
-                "position": "aproximative",
-                "addr:street": "Rue Rachel Est",
+                "brand": "Biciborne",
                 "addr:city": "Montr\u00e9al",
-                "shop": "bicycle",
                 "opening_hours": "24/7",
                 "service:bicycle:pump": "yes",
-                "name": "Biciborne",
+                "shop": "bicycle",
+                "position": "aproximative",
                 "addr:housenumber": "1251",
                 "amenity": "bicycle_repair_station",
-                "brand": "Biciborne"
+                "addr:street": "Rue Rachel Est",
+                "name": "Biciborne"
             }
         },
         {
             "type": "Feature",
-            "id": 4907836764,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5669009,
                     45.462257
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4907836764,
             "properties": {
-                "name": "Atelier Wellington",
+                "shop": "bicycle",
                 "opening_hours": "Tu,We 10:00-18:00; Th,Fr 10:00-20:00; Sa 09:00-17:00; Su 11:00-17:00",
-                "shop": "bicycle"
+                "name": "Atelier Wellington"
             }
         },
         {
             "type": "Feature",
-            "id": 4908111010,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5670292,
                     45.4647263
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4908111010,
             "properties": {
-                "name": "Cycles Campus Verdun",
-                "shop": "bicycle"
+                "shop": "bicycle",
+                "name": "Cycles Campus Verdun"
             }
         },
         {
             "type": "Feature",
-            "id": 4930786077,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6726755,
                     45.5109673
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 4930786077,
             "properties": {
-                "name": "Cycles St-Laurent",
-                "addr:housenumber": "1344",
                 "addr:city": "Montr\u00e9al",
+                "addr:housenumber": "1344",
                 "shop": "bicycle",
-                "addr:street": "Rue Du Coll\u00e8ge"
+                "addr:street": "Rue Du Coll\u00e8ge",
+                "name": "Cycles St-Laurent"
             }
         },
         {
             "type": "Feature",
-            "id": 5111364606,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5452643,
                     45.5446888
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5111364606,
             "properties": {
-                "addr:street": "Rue Ontario Est",
-                "shop": "bicycle",
                 "addr:city": "Montr\u00e9al",
+                "shop": "bicycle",
                 "addr:province": "QC",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 10:00-17:00",
-                "name": "L'atelier Tak",
+                "addr:postcode": "H1W 1R6",
                 "addr:housenumber": "3545",
-                "addr:postcode": "H1W 1R6"
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 10:00-17:00",
+                "addr:street": "Rue Ontario Est",
+                "name": "L'atelier Tak"
             }
         },
         {
             "type": "Feature",
-            "id": 5111523006,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6836639,
                     45.4336976
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5111523006,
             "properties": {
-                "addr:street": "Boulevard Saint-Joseph",
                 "shop": "bicycle",
-                "service:bicycle:repair": "yes",
-                "name": "Cycle N\u00e9ron",
+                "website": "http://cycleneron.com/montreal-canal-lachine/",
                 "addr:housenumber": "2100",
-                "website": "http://cycleneron.com/montreal-canal-lachine/"
+                "name": "Cycle N\u00e9ron",
+                "addr:street": "Boulevard Saint-Joseph",
+                "service:bicycle:repair": "yes"
             }
         },
         {
             "type": "Feature",
-            "id": 5111523007,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6866157,
                     45.4343667
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5111523007,
             "properties": {
-                "name": "Bicyclettes Rossi",
                 "addr:housenumber": "2500",
-                "website": "https://www.rossibikes.com/",
                 "shop": "bicycle",
-                "addr:street": "Boulevard Saint-Joseph"
+                "addr:street": "Boulevard Saint-Joseph",
+                "website": "https://www.rossibikes.com/",
+                "name": "Bicyclettes Rossi"
             }
         },
         {
             "type": "Feature",
-            "id": 5192851931,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5787573,
                     45.5286826
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5192851931,
             "properties": {
-                "phone": "+1-514-526-3805",
-                "addr:street": "Avenue du Mont-Royal Est",
+                "name": "Ekkip",
                 "shop": "bicycle",
                 "website": "https://ekkip.com",
-                "name": "Ekkip",
                 "addr:housenumber": "1153",
-                "opening_hours": "Mo-We 10:00-18:00; Th-Fr 10:00-21:00; Sa 10:00-17:00; Su 11:00-17:00"
+                "opening_hours": "Mo-We 10:00-18:00; Th-Fr 10:00-21:00; Sa 10:00-17:00; Su 11:00-17:00",
+                "addr:street": "Avenue du Mont-Royal Est",
+                "phone": "+1-514-526-3805"
             }
         },
         {
             "type": "Feature",
-            "id": 5256489882,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6734115,
                     45.5576397
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5256489882,
             "properties": {
                 "amenity": "bicycle_repair_station",
                 "shop": "bicycle"
@@ -895,73 +895,73 @@
         },
         {
             "type": "Feature",
-            "id": 5433522882,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6083383,
                     45.4746027
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5433522882,
             "properties": {
-                "name": "Giant Montreal",
-                "addr:housenumber": "5252",
                 "addr:city": "Montr\u00e9al",
+                "addr:housenumber": "5252",
                 "shop": "bicycle",
-                "addr:street": "Rue Sherbrooke Ouest"
+                "addr:street": "Rue Sherbrooke Ouest",
+                "name": "Giant Montreal"
             }
         },
         {
             "type": "Feature",
-            "id": 5514969120,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.6547172,
                     45.422624
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5514969120,
             "properties": {
-                "name": "Bicyclette tranquille",
-                "addr:housenumber": "9615",
                 "addr:city": "Montr\u00e9al",
+                "addr:housenumber": "9615",
                 "shop": "bicycle",
-                "addr:street": "Boulevard LaSalle"
+                "addr:street": "Boulevard LaSalle",
+                "name": "Bicyclette tranquille"
             }
         },
         {
             "type": "Feature",
-            "id": 5653967560,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.573537,
                     45.4787529
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5653967560,
             "properties": {
-                "level": "0",
-                "name:fr": "ma bicyclette",
                 "shop": "bicycle",
+                "level": "0",
+                "name:en": "my bicyclette",
+                "name:fr": "ma bicyclette",
                 "amenity": "cafe",
-                "wheelchair": "yes",
-                "name:en": "my bicyclette"
+                "wheelchair": "yes"
             }
         },
         {
             "type": "Feature",
-            "id": 5667587009,
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -73.5772301,
                     45.5299063
-                ],
-                "type": "Point"
+                ]
             },
+            "id": 5667587009,
             "properties": {
-                "name": "Pignon sur Roues",
+                "shop": "bicycle",
                 "opening_hours": "Mo-We 08:00-19:00;Th-Fr 08:00-21:00;Sa 10:00-17:00;Su 11:00-16:00",
-                "shop": "bicycle"
+                "name": "Pignon sur Roues"
             }
         }
     ]
