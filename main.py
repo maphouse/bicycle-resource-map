@@ -12,7 +12,7 @@ api = overpass.API()
 #response4 = api.get('node["amenity"="bicycle_parking"](area:3601634158);')
 #response5 = api.get('way["amenity"="bicycle_parking"](area:3601634158);')
 #'node["amenity"="bicycle_repair_station"](area:3601634158);'
-response = api.get('node(area:3601634158)["shop"="bicycle"];')
+response = api.get('node(45.415077,-74.070401,45.677474,-73.393472)["shop"="bicycle"];')
 
 #url_for('static', filename='style.css')
 
