@@ -9,7 +9,7 @@ app = Flask(__name__)
 if __name__ == "__main__":
 	app.run(debug=True, port=5000)
 
-timeThen = 0
+#timeThen = 0
 
 def fetchData():
 	#a more sustainable , modular function is needed to define the area. Right now, the ref id for the Montreal area was retrieved from Overpass xml query in overpass turbo wizard... not sustainable longterm when targeted areaas will be added.
@@ -37,7 +37,7 @@ def timeCheck(t):
 @app.route('/', methods=['POST','GET'])
 def index():
 	timeNow = time.time()
-	timeCheck(timeNow)
+	#timeCheck(timeNow)
 	#return 'It has been ' + str(timeNow - timeThen) + ' since last data update. Has data has been updated?'
 	return render_template('index.html')
 @app.route('/position', methods=['POST','GET'])
